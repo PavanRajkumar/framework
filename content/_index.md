@@ -35,8 +35,8 @@ sections:
           location: Sunnyvale
           date_start: '2023-05-01'
           date_end: ''
-          description: |2-
-            [In]coming Hardware Engineering Intern.
+          description: '[In]coming Hardware Engineering Intern.'
+           
 
         - title: Systems Administrator
           company: University of Southern California
@@ -73,6 +73,41 @@ sections:
           date_start: '2020-02-01'
           date_end: '2020-12-01'
           description: Developed a tool to predict bug-inducing risk of git commits using Machine Learning and Explainable AI.
+    design:
+      columns: '2'
+
+    ############################################################################################################
+
+  - block: experience
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Master of Science in Computer Science
+          company: University of Southern California
+          company_url: 'https://www.usc.edu/'
+          company_logo: usc_logo
+          location: Los Angeles
+          date_start: '2022-01-01'
+          date_end: ''
+          description:
+
+        - title: Bachelor of Engineering in Computer Science
+          company: CMR Institute of Technology
+          company_url: 'https://www.cmrit.ac.in/'
+          company_logo: cmrit_logo
+          location: Bangalore
+          date_start: '2017-08-01'
+          date_end: '2021-08-01'
+          description: 
+
     design:
       columns: '2'
 
