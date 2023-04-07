@@ -42,8 +42,8 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice:
+  copyright: 
+    notice: 2023 &copy; Pavan Rajkumar Magesh
     license:
       enable: false
       allow_derivatives: false
